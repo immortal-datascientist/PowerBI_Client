@@ -48,6 +48,9 @@ PowerBI_Client/
 - Enable reproducible analytics through notebooks
 
 ---
+## Demo
+
+<img width="1314" height="623" alt="Image" src="https://github.com/user-attachments/assets/3064c0a6-5d3b-403c-8b87-ceb7e16a9f0a" />
 
 ## 🛠️ Technologies Used
 
