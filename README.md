@@ -60,6 +60,7 @@ PowerBI_Client/
 | Exploration | Jupyter Notebook |
 
 ---
+<img width="1314" height="623" alt="PowerBI_Top_Suggestions" src="https://github.com/user-attachments/assets/977a22e9-b7a4-419a-ae44-6eaecc1fd369" />
 
 ## 📦 Dependencies
 
