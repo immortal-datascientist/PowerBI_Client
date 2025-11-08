@@ -34,6 +34,10 @@ PowerBI_Client/
 ├─ llm_server_gguf.py                   # Local GGUF LLM script for insight generation
 └─ notebook/                            # Jupyter notebooks for EDA & prototyping
 
+https://github.com/user-attachments/assets/bbd048a6-d4f4-4ab0-b6f8-59d5f39052b7
+
+<img width="1314" height="623" alt="Image" src="https://github.com/user-attachments/assets/3064c0a6-5d3b-403c-8b87-ceb7e16a9f0a" />
+
 ```
 
 ---
@@ -48,9 +52,7 @@ PowerBI_Client/
 - Enable reproducible analytics through notebooks
 
 ---
-## Demo
 
-<img width="1314" height="623" alt="Image" src="https://github.com/user-attachments/assets/3064c0a6-5d3b-403c-8b87-ceb7e16a9f0a" />
 
 ## 🛠️ Technologies Used
 
@@ -63,7 +65,7 @@ PowerBI_Client/
 | Exploration | Jupyter Notebook |
 
 ---
-<img width="1314" height="623" alt="PowerBI_Top_Suggestions" src="https://github.com/user-attachments/assets/977a22e9-b7a4-419a-ae44-6eaecc1fd369" />
+
 
 ## 📦 Dependencies
 
