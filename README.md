@@ -38,6 +38,13 @@ https://github.com/user-attachments/assets/bbd048a6-d4f4-4ab0-b6f8-59d5f39052b7
 
 <img width="1314" height="623" alt="Image" src="https://github.com/user-attachments/assets/3064c0a6-5d3b-403c-8b87-ceb7e16a9f0a" />
 
+
+## Growth Dataset:-
+
+<img width="1620" height="780" alt="Image" src="https://github.com/user-attachments/assets/e6a763a7-b720-4fdc-aa38-1d4b9b8f5d08" />
+<img width="1574" height="790" alt="Image" src="https://github.com/user-attachments/assets/80d354f3-e67d-4c3d-9dcc-0c65b9dceec3" />
+<img width="1114" height="791" alt="Image" src="https://github.com/user-attachments/assets/56e07c98-848d-4405-afa4-10d4006c1e2c" />
+
 ```
 
 ---
