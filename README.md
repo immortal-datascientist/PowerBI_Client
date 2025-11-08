@@ -26,8 +26,8 @@ The core asset is a **Power BI report** visualizing customer experience metrics,
 ```
 
 PowerBI_Client/
-├─ AQCCA_overall_experience.pbix        # Power BI report (Customer Experience Dashboard)
-├─ AQCCA_Customer_Feedback.csv          # Raw Customer Feedback dataset
+├─ Hospital_overall_experience.pbix        # Power BI report (Customer Experience Dashboard)
+├─ Hospital_Customer_Feedback.csv          # Raw Customer Feedback dataset
 ├─ Top4_suggestions.csv                 # Key suggestions output (AI/Data processed)
 ├─ Growth LLM Generated.xlsx            # LLM-generated business growth insights
 ├─ sales_python_scripting.py            # Data prep & export logic for BI consumption
